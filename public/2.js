@@ -1,0 +1,1 @@
+console.log("你才2呢.js")
